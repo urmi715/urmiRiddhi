@@ -86,10 +86,7 @@ body {
     top:-47px;
   }
 
-  .click:after h4{
-    color: red;
-  }
-  
+ 
   #click:checked + .click {
     transform: rotate(-110deg) scaleX(0.85);
   }
